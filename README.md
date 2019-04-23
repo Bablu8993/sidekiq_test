@@ -3,9 +3,11 @@
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
-Things you may want to cover:
+    This application is for implementing sidekiq for backgound job processing
 
 * Ruby version
+    
+          Ruby version 2.5.1
 
 * System dependencies
 
